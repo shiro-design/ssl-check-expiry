@@ -38,7 +38,7 @@ python check-ssl.py google.com microsoft.com bing.com code204.hjs
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+What things you need to install the software:
 
 > Python 3.x
 
