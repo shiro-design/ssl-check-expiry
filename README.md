@@ -30,7 +30,7 @@ This return the day ssl will expire or expired.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 To use this : 
-```` 
+```
 python check-ssl.py google.com microsoft.com bing.com code204.hjs
 ```
 
@@ -40,9 +40,8 @@ python check-ssl.py google.com microsoft.com bing.com code204.hjs
 
 What things you need to install the software and how to install them.
 
-```
-Python 3.x
-```
+> Python 3.x
+
 
 
 ## ✍️ Authors <a name = "authors"></a>
